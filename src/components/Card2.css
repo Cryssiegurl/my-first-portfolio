@@ -1,0 +1,62 @@
+.Card2 {
+    width: 150px;
+    height: 150px;
+    min-height: 150px;
+    max-height: 150px;
+    border-radius: 16px;
+    border: 2px solid #333;
+    box-shadow: 3px 3px 7px rgba(255, 255, 255, 0.67);
+    margin: 2% 4%;
+    padding: 10px;
+    float: left;
+    color: #d5eff1;
+ }
+.GeocachePic {
+    background: url("../images/Geocache.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+
+.BakingPic {
+    background: url("../images/Baking.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+
+.WritingPic {
+    background: url("../images/Writing.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+.TvPic {
+    background: url("../images/tvseries.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+.CoffeePic {
+    background: url("../images/coffee.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+
+.CodePic {
+    background: url("../images/Code.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+
+.Card4 {
+     width: 60px;
+     height: 60px;
+     min-height: 60px;
+     max-height: 60px;
+     border-radius: 50%;
+     display: inline-block;
+     margin-top: 20px;
+     margin-left: 15px;
+}
+.LogoPic {
+    background: url("../images/logo.jpg");
+    background-size: cover;
+    background-position: cover;
+}

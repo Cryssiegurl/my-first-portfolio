@@ -1,0 +1,13 @@
+.Skills {
+    text-align: left;
+    width: 100%;
+    height: 900px;
+    background: #cc0066;
+    padding: 15px;
+}
+#myskills {
+    text-align: left;
+    margin-top: 550px;
+    margin-right: -250px;
+    margin-left: 250px;
+}

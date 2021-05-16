@@ -1,0 +1,8 @@
+.CardText {
+    color: #d5eff1;
+    text-align: left;
+    padding-top: 30px;
+    font-size: 2em;
+    min-height: 240px;
+    max-height: 240px;
+}

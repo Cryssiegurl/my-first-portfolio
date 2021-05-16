@@ -1,0 +1,18 @@
+.Navigation {
+    width: 100%;
+    min-height: 50px;
+    text-align: center;
+    background: rgba(0, 0, 255, 0.2);
+    font-size: 2.7em;
+    font-weight: 700;
+    padding-top: 7px;
+}
+    .Navigation > a {
+        text-decoration: none;
+        margin: 0 13px;
+        color: rgb(172, 73, 245);
+        font-family: 'Teko', sans-serif;
+    }
+    .Navigation > a:hover {
+        color: #333;
+    }

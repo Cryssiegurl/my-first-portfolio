@@ -1,0 +1,39 @@
+.Card {
+    width: 350px;
+    height: 350px;
+    min-height: 350px;
+    max-height: 350px;
+    border-radius: 16px;
+    border: 2px solid #333;
+    box-shadow: 3px 3px 7px rgba(255, 255, 255, 0.67);
+    margin: 30px 10px 10px 150px;
+    padding: 0px;
+    float: left;
+    color: #d5eff1;
+}
+ 
+.ProfilePic {
+    background: url("../images/profilepic.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.Pic1 {
+    background: url("../images/htmlcssjs.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+
+.Pic2 {
+    background: url("../images/java.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+
+.Pic3 {
+    background: url("../images/design.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+
+    

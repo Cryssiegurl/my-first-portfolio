@@ -1,0 +1,35 @@
+.Card3 {
+    width: 150px;
+    height: 150px;
+    min-height: 150px;
+    max-height: 150px;
+    border-radius: 16px;
+    border: 2px solid #333;
+    box-shadow: 3px 3px 7px rgba(255, 255, 255, 0.67);
+    margin: 2% 20%;
+    padding-top: 40px;
+    float: left;
+    color: #d5eff1;
+}
+.InstagramPic {
+    background: url("../images/instagram.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+.GithubPic {
+    background: url("../images/github.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+
+.EmailPic {
+    background: url("../images/email.jpg");
+    background-size: cover;
+    background-position: cover;
+}
+
+.ResumePic {
+    background: url("../images/resume.jpg");
+    background-size: cover;
+    background-position: cover;
+}

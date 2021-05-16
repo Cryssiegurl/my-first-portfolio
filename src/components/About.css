@@ -1,0 +1,24 @@
+.About {
+    text-align: left;
+    padding-top: 10px;
+    width: 100%;
+    height: 900px;
+    background: #009999;
+    padding: 150px;
+    border-top: rgba(0, 0, 255, 0.3);
+    border-bottom: rgba(0, 0, 255, 0.3);
+
+}
+
+#abouttext {
+    text-align: left;
+    margin-top: 450px;
+    margin-right: 0px;
+    margin-left: 130px;
+    position: absolute;
+}
+
+
+
+
+    
