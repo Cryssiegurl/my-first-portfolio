@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Cryssiegurl/my-first-portfolio/static/css/main.a0b386cb.chunk.css",
+    "main.js": "/Cryssiegurl/my-first-portfolio/static/js/main.bd6e95a7.chunk.js",
+    "main.js.map": "/Cryssiegurl/my-first-portfolio/static/js/main.bd6e95a7.chunk.js.map",
+    "runtime-main.js": "/Cryssiegurl/my-first-portfolio/static/js/runtime-main.da1d7748.js",
+    "runtime-main.js.map": "/Cryssiegurl/my-first-portfolio/static/js/runtime-main.da1d7748.js.map",
+    "static/js/2.c905c142.chunk.js": "/Cryssiegurl/my-first-portfolio/static/js/2.c905c142.chunk.js",
+    "static/js/2.c905c142.chunk.js.map": "/Cryssiegurl/my-first-portfolio/static/js/2.c905c142.chunk.js.map",
+    "index.html": "/Cryssiegurl/my-first-portfolio/index.html",
+    "static/css/main.a0b386cb.chunk.css.map": "/Cryssiegurl/my-first-portfolio/static/css/main.a0b386cb.chunk.css.map",
+    "static/js/2.c905c142.chunk.js.LICENSE.txt": "/Cryssiegurl/my-first-portfolio/static/js/2.c905c142.chunk.js.LICENSE.txt",
+    "static/media/Card2.css": "/Cryssiegurl/my-first-portfolio/static/media/tvseries.559b7a91.jpg",
+    "static/media/Card.css": "/Cryssiegurl/my-first-portfolio/static/media/profilepic.c3352d64.jpg",
+    "static/media/Card3.css": "/Cryssiegurl/my-first-portfolio/static/media/resume.aa219d71.jpg",
+    "static/media/Header.css": "/Cryssiegurl/my-first-portfolio/static/media/headerBkg.82dd18ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da1d7748.js",
+    "static/js/2.c905c142.chunk.js",
+    "static/css/main.a0b386cb.chunk.css",
+    "static/js/main.bd6e95a7.chunk.js"
+  ]
+}
